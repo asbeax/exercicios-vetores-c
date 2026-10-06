@@ -39,8 +39,9 @@ make
 
 ## Observações
 
-- Apenas `stdio.h` é utilizada.
+
 - As posições do vetor começam em **0**, como em C (por exemplo, na questão 4, X e Y vão de 0 a 7).
 - Na questão 10 as notas aceitas vão de 0 a 10.
 - Nas questões 7 e 13, em caso de empate, vale a primeira ocorrência do maior/menor valor.
 - Os textos de saída não usam acentos para evitar caracteres quebrados no console do Windows.
+  
